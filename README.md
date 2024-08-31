@@ -1,5 +1,4 @@
-# This is the Zomato Landing page Clone
+Zomato Landing page Clone
 
-## Done with first commit.
-
-## Set up created here for our application
+Check the below link for the webpage 👇
+https://zomato-landing-page-clone-by-anusha.netlify.app/
